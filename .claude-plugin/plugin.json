@@ -1,0 +1,7 @@
+{
+  "name": "landing-ade",
+  "description": "LandingAI Agentic Document Extraction skill. Parse documents, extract structured data, classify/split multi-document PDFs via the ADE REST API using interactive curl-based workflows.",
+  "author": {
+    "name": "LandingAI"
+  }
+}

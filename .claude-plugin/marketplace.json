@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "agentic-landing-ade",
+  "description": "LandingAI Agentic Document Extraction plugins for Claude Code",
+  "owner": {
+    "name": "LandingAI"
+  },
+  "plugins": [
+    {
+      "name": "landing-ade",
+      "description": "LandingAI Agentic Document Extraction skill. Parse documents, extract structured data, classify/split multi-document PDFs via the ADE REST API using interactive curl-based workflows.",
+      "version": "1.0.0",
+      "author": {
+        "name": "LandingAI"
+      },
+      "source": ".",
+      "category": "development",
+      "homepage": "https://github.com/jaewon42/agentic-landing-ade"
+    }
+  ]
+}
